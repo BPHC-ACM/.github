@@ -12,6 +12,7 @@ The Web Dev team builds and maintains the digital backbone of ACM and its partne
 **Active Projects:**
 - **ACM Website** 
 - **ACC Website** 
+- **Verba Maximus Website** - Active collaboration with The English Language Activities Society
 - **Hostel Management Website**   
 - **SAE Website**
 
