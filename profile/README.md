@@ -5,7 +5,7 @@ Welcome to the official GitHub Organization of the **Association for Computing M
 ---
 
 ## 🌐 Web Development  
-**Lead:** Aravind Sathesh
+**Lead:** Manoj Kumar
 
 The Web Dev team builds and maintains the digital backbone of ACM and its partner bodies. We focus on fast, responsive, and well-documented full-stack applications, tailored to solve real campus problems.
 
@@ -19,7 +19,7 @@ The Web Dev team builds and maintains the digital backbone of ACM and its partne
 ---
 
 ## 🧠 Machine Learning  
-**Lead:** Bhavika Baburaj
+**Lead:** Aarav Ganag
 
 The ML team applies cutting-edge machine learning and data science techniques to solve real-world problems. From NLP pipelines to classification systems, the team focuses on building intelligent, scalable models that make a difference.
 
@@ -29,21 +29,21 @@ The ML team applies cutting-edge machine learning and data science techniques to
 ---
 
 ## 🤖 Generative AI  
-**Lead:** Bharghavaram Boddapati
+**Lead:** Mahir Modi
 
 Exploring the frontier of generative models, this team works on projects using large language models (LLMs), multimodal transformers, and more. Expect internal tools, AI assistants, and creative GenAI applications built with precision and responsibility.
 
 ---
 
 ## 📈 Quant  
-**Lead:** Aarav Dhaduk
+**Lead:** Manoj Kumar Paskaran
 
 The Quant team blends statistics, mathematics, and computing to analyze and model data. Whether it's financial modeling, data visualization, or algorithmic optimization, this team handles numbers at scale.
 
 ---
 
 ## 📱 App Development  
-**Lead:** Ritesh Udgata
+**Lead:** Sudhanva BH
 
 The App Dev team creates mobile experiences that complement and extend our web projects. With a strong focus on performance and UX, this team is currently laying the foundation for upcoming Android/iOS initiatives.
 
@@ -57,14 +57,14 @@ Visual identity, user interface, branding—this team does it all. The Design te
 ---
 
 ## 📢 Events  
-**Lead:** Vansh Seth
+**Lead:** Kuber Bhatt
 
 The Events team organizes ACM’s external presence—tech talks, coding contests, workshops, and hackathons. From planning to execution, they drive engagement and community across campus.
 
 ---
 
 ## ✍️ Content  
-**Lead:** Rakshita Vijay
+**Lead:** Akash Jog
 
 Words matter. The Content team handles all copy, documentation, blogs, and announcements. They craft the voice of ACM and make sure our ideas are heard clearly and effectively.
 
